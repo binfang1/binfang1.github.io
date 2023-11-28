@@ -5,7 +5,6 @@
 
 let costPerDay = 35;
 let costPerWeek = 0;
-let isFullDay = true;
 let daysSelected = [];
 
 /********* colour change days of week *********/
